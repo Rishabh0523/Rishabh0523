@@ -1,3 +1,4 @@
+<img align="right" alt="coading" width="400" src="https://thetapacademy.com/wp-content/uploads/2022/10/full-stack-web-developer-1200x900.jpg" alt="">
 <h1 align="center">Hi 👋, I'm Rishabh Raj</h1>
 <h3 align="center">A passionate Fronted developer and MERN stack developer from India</h3>
 
