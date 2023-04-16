@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwTD-hhJ5YVJgIUm9clX4DrQRa65N9ytbjpA&usqp=CAU" alt="">
+
 <h1 align="center">Hi 👋, I'm Rishabh Raj</h1>
 <h3 align="center">A passionate Fronted developer and MERN stack developer from India</h3>
 
