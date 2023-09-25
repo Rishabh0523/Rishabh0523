@@ -1,6 +1,4 @@
-*{
-baclground-color:white;
-}
+
 <h1 align="center">Hi 👋, I'm Rishabh Raj</h1>
 <h3 align="center">A passionate Fronted developer and MERN stack developer from India</h3>
 
